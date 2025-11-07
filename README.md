@@ -124,7 +124,7 @@ By the end of these notebooks, you will:
 
 Created for educational demonstration of **Agentic AI Systems**.  
 Concepts inspired by ReAct (Yao et al., 2022) and LangGraph by LangChain.  
-Author: *Praveen Kumar Pokala*
+Author: *Dr. Praveen Kumar Pokala*
 
 ---
 
